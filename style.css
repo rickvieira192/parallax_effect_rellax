@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(bg_princ.jpg) no-repeat;
+    background-size: 100% cover;
+    background-attachment: fixed;
+}
+
+
+
+
+.d1{
+    margin-top: 10px;
+    margin-left: 300px;
+}
+
+.d2{
+    margin-left: -95px;
+    margin-top: 800px;
+}
+
+.d3{
+    margin-top: -50px;
+    margin-left: 600px;
+}
+
+.d4{
+    margin-top: -308px;
+}
+
+.d5{
+    margin-top: -250px;
+    margin-left: 400px;
+}
+
+.d6{
+    margin-top: 650px;
+    margin-left: 500px;
+}
